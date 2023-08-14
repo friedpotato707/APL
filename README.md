@@ -1,6 +1,6 @@
 # DailyPlanner: Java Activity Planning Application.
 
-Project was upated to JDK 11.
+Project was upated to JDK 11. AdoptOpenJDK 11.0.11 was used for testing this project. Please make sure that you're using the same JDK to run this project.
 
 
 Maven 3.8.4 was used for the latest build.
