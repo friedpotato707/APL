@@ -1,4 +1,4 @@
-# APL: Java Activity Planning Application.
+# APL: Activity Planning Application.
 
 Project was upated to JDK 11. AdoptOpenJDK 11.0.11 was used for testing this project. Please make sure that you're using the same JDK to run this project.
 
